@@ -1,7 +1,7 @@
-This is my 1st version
-sac
-scqc
-i m doing gud
+ssh-keygen -t rsa -b 4096 -C "bhupendrarms@gmail.com"
 
-I met Sameer
-Sameer went home
+eval "$(ssh-agent -s)"
+Agent pid 59566
+
+$ ssh-add ~/.ssh/id_rsa
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCyVypg/UPc0TKFjeE4ageJpw//0JeIqPLFszSBMj8oO+3GduCkHGwmOAupomVICZtxDNpHZ7rGBABi7qQUsWhYTQN8PRnEl6KEdfEIhivmnw8d8YFeuBUwEfzYHcsa5H4Qb116uaATwztasrkuhdH0zAa3n7Rt1LszuN02bpViOnXTVCV/Dl4ynkpMbOz3geJNMmH1xWvPepPRxk17pRyCgj+/hms5EUPC7vZTWpL449odyexSXXUj1D67EDroU9DNfRf8bQyUhnjoHiHKnRWV/0s3Gx6O/dJcmxN5bRCPaNBSd/FIrTfK+RVyWxPfjSodorvkTuhHd8Vi2c+zOEVxK2FMnBSi2dEQ3KdF1Qhk7/Nca4JFcP2Djbk5gt3LfUZTb+r3HgH+lZ2T8wjfEjr/3Mx2p0WL/zSIWFC9zchYXLXbxx79Zv3S2EKoIgQz26CegvIg9vS3Kj5iEL6r4gOS1XmD3dFEMcyxe6JzjufLzro1VaDyLQ0AiYq6ci4FhNdlxV1Pjxfhhc+TcJTJXFpi+gscokd0x9iv1+Au0UGRyeV6jZXmuXn0iqKfcSKFc1ceeSneWbuU0+w/GU5q67yRtfqvHN3eGUSMZAl2XpwYyyQ/Jh8uqPQNpLKnBPRMmXaL30NWHDtIxRjlNWREacR1HkxrWvL13kft5drGuN24dQ== bhupendrarms@gmail.com
